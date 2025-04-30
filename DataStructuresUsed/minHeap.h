@@ -19,7 +19,7 @@ public:
 //linkedlist version:
 
 template <class T>
-class nodeHeap
+class nodeMinHeap
 {
 
 public:
